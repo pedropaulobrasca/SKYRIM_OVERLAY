@@ -3,4 +3,16 @@ C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_
 C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\Functions.h(4,1): message : '_CRT_SECURE_NO_WARNINGS' declarado anteriormente na linha de comando
 C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\DirectX.cpp(249,5): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
 C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\DirectX.cpp(250,5): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  Drawing.cpp
+C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\Functions.h(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinição de macro
+C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\Functions.h(4,1): message : '_CRT_SECURE_NO_WARNINGS' declarado anteriormente na linha de comando
+  Functions.cpp
+C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\Functions.h(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinição de macro
+C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\Functions.h(4,1): message : '_CRT_SECURE_NO_WARNINGS' declarado anteriormente na linha de comando
+C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\Functions.cpp(11,131): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\Functions.cpp(11,131): message : espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+  Overlay.cpp
+C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\Functions.h(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinição de macro
+C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\SkyrimOverlay\Functions.h(4,1): message : '_CRT_SECURE_NO_WARNINGS' declarado anteriormente na linha de comando
+  Gerando Código...
   SkyrimOverlay.vcxproj -> C:\Users\Peter\Downloads\Skyrim Hacking Tutorial\Skyrim Hacking Tutorial\SKYRIM_OVERLAY\Debug\SkyrimOverlay.dll
